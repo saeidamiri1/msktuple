@@ -2,6 +2,6 @@
 
 See https://github.com/saeidamiri1/msktuple/wiki
 
-$$
+$
 s_1
-$$
+$
